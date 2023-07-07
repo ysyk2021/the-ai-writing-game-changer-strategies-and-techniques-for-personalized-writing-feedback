@@ -1,7 +1,6 @@
 # Summary
 
 - [Chapter 1: Introduction](README.md)
-  - [Overview of the book](chapter-1-1.md)
   - [Why utilizing machine learning for writing feedback is important](chapter-1-2.md)
 - [Chapter 2: Understanding AI in Writing Feedback](chapter-2.md)
   - [Historical overview of AI in writing feedback](chapter-2-1.md)
