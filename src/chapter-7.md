@@ -1,5 +1,3 @@
-Chapter 7: Managing AI in Writing Feedback
-==========================================
 
 Data Management
 ---------------

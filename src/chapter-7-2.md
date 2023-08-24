@@ -1,5 +1,3 @@
-Ensuring Transparency and Accountability
-====================================================================================
 
 Why transparency and accountability are important
 -------------------------------------------------

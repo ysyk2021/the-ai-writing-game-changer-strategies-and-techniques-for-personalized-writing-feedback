@@ -1,5 +1,3 @@
-Chapter 2: Understanding AI in Writing Feedback
-===============================================
 
 Artificial intelligence (AI) is revolutionizing the field of writing feedback, offering a range of benefits for writers looking to improve their skills and receive personalized feedback. In this chapter, we will provide an overview of AI in writing feedback, including its history, types, and how it works.
 

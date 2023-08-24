@@ -1,4 +1,3 @@
-# Conclusion
 
 The potential of AI in writing feedback
 ---------------------------------------

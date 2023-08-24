@@ -1,5 +1,3 @@
-Chapter 4: Challenges of AI in Writing Feedback
-===============================================
 
 As artificial intelligence (AI) continues to be integrated into writing feedback systems, there are challenges that must be addressed. In this chapter, we will discuss some of the key challenges related to ethical considerations, legal considerations, and privacy and security concerns in AI-powered writing feedback.
 

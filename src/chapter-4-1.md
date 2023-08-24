@@ -1,5 +1,3 @@
-Ethical Considerations
-=======================================================================
 
 As artificial intelligence (AI) continues to be integrated into writing feedback systems, there are ethical considerations that must be taken into account. In this chapter, we will discuss some of the key challenges related to ethical considerations in AI-powered writing feedback.
 

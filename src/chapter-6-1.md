@@ -1,5 +1,3 @@
-Developing an AI strategy
-=========================================================================
 
 Why developing an AI strategy is important
 ------------------------------------------

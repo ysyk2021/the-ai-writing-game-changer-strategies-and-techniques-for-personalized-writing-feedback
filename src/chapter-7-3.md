@@ -1,5 +1,3 @@
-Addressing Potential Bias
-=====================================================================
 
 Why addressing potential bias is important
 ------------------------------------------

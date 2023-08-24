@@ -1,5 +1,3 @@
-Emerging Trends
-============================================================
 
 As artificial intelligence (AI) continues to evolve, it is transforming the way writing feedback is provided and improving the quality of personalized feedback that writers receive. In this chapter, we will discuss some of the emerging trends in AI for writing feedback.
 

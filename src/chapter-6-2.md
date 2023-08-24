@@ -1,5 +1,3 @@
-Overcoming Resistance to Change
-===============================================================================
 
 Why overcoming resistance to change is important
 ------------------------------------------------

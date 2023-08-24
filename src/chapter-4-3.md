@@ -1,5 +1,3 @@
-Privacy and Security Concerns
-==============================================================================
 
 As artificial intelligence (AI) continues to be integrated into writing feedback systems, there are growing concerns about the privacy and security of personal data. In this chapter, we will discuss some of the key challenges related to privacy and security in AI-powered writing feedback.
 

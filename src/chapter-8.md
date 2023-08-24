@@ -1,5 +1,3 @@
-Chapter 8: Future of AI in Writing Feedback
-===========================================
 
 As artificial intelligence (AI) continues to evolve, it presents both challenges and opportunities for the future of writing feedback. In this chapter, we will discuss some of the emerging trends and potential challenges and opportunities associated with AI in writing feedback.
 
@@ -34,5 +32,4 @@ Conclusion
 ----------
 
 The future of AI in writing feedback presents both challenges and opportunities. By staying up-to-date on emerging trends, focusing on quality, and addressing ethical considerations, it is possible to build a writing feedback system that is effective, trusted, and capable of unlocking new opportunities for writers.
-
 

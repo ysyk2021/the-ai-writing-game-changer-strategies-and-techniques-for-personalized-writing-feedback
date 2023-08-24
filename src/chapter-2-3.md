@@ -1,5 +1,3 @@
-How AI Works in Writing Feedback
-=================================================================================
 
 Artificial intelligence (AI) is transforming the way writing feedback is provided, offering personalized and effective feedback for writers looking to improve their skills. In this chapter, we will discuss how AI works in writing feedback.
 

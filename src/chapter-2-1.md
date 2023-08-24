@@ -1,5 +1,3 @@
-Historical Overview of AI in Writing Feedback
-==============================================================================================
 
 Artificial intelligence (AI) has been used in writing feedback for several decades, with the technology evolving significantly over time. In this chapter, we will provide a historical overview of AI in writing feedback, highlighting key milestones and developments in the field.
 

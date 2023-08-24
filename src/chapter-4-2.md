@@ -1,5 +1,3 @@
-Legal Considerations
-=====================================================================
 
 As artificial intelligence (AI) continues to be integrated into writing feedback systems, there are also legal considerations that must be taken into account. In this chapter, we will discuss some of the key challenges related to legal considerations in AI-powered writing feedback.
 

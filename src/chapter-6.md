@@ -1,5 +1,3 @@
-Chapter 6: Implementing AI in Writing Feedback
-==============================================
 
 Developing an AI strategy
 -------------------------

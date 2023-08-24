@@ -1,5 +1,3 @@
-Chapter 5: Applications of AI in Writing Feedback
-=================================================
 
 Artificial intelligence (AI) is transforming the way writing feedback is provided, with a wide range of applications that can improve the quality and effectiveness of feedback. In this chapter, we will discuss some of the key applications of AI in writing feedback.
 

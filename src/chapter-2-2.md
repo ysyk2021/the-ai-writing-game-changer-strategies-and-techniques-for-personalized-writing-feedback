@@ -1,5 +1,3 @@
-Types of AI in Writing Feedback
-================================================================================
 
 Artificial intelligence (AI) is revolutionizing writing feedback, offering a range of benefits for writers looking to improve their skills and receive personalized feedback. In this chapter, we will discuss the different types of AI used in writing feedback.
 
@@ -27,5 +25,4 @@ Conclusion
 ----------
 
 Machine learning, natural language processing, deep learning, and hybrid approaches are all types of AI used in writing feedback. By leveraging these technologies, writing feedback systems are able to provide more accurate, personalized, and effective feedback to writers. As AI continues to evolve, it has the potential to unlock new opportunities for writers to improve their skills and achieve their writing goals.
-
 

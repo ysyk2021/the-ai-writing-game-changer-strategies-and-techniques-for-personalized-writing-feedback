@@ -1,5 +1,3 @@
-Grammar and Style Checking
-=============================================================================
 
 One of the most common applications of artificial intelligence (AI) in writing feedback is grammar and style checking. AI-powered tools can provide writers with feedback on their grammar, syntax, and writing style, helping them to improve the overall clarity and coherence of their writing. In this chapter, we will discuss some of the key features and benefits of AI-powered grammar and style checking.
 
