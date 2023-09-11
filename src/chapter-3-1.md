@@ -1,5 +1,4 @@
-Chapter 5: Enhanced Personalization and Customization
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the ever-evolving landscape of AI-powered writing assistance, one of the key milestones is achieving enhanced personalization and customization. This chapter explores the strategies and techniques that have transformed AI writing into a game-changer for personalized writing feedback and improvement through machine learning.
 

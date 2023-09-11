@@ -1,5 +1,4 @@
-Chapter 15: Data Management
-===========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Effective data management is a critical aspect of harnessing the power of AI in writing feedback and improvement. In this chapter, we explore the key considerations and strategies for managing data in the context of AI-driven writing tools.
 

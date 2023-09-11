@@ -1,5 +1,4 @@
-Chapter 8: Emerging Trends
-==========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the ever-evolving landscape of AI-powered writing, staying ahead of emerging trends is crucial for maximizing the potential of these technologies. This chapter explores some of the most promising and transformative trends in AI writing that are shaping the present and future of written communication.
 

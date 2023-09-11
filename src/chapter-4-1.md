@@ -1,5 +1,4 @@
-Chapter 6: Ethical Considerations
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the quest to harness the power of AI for personalized writing feedback and improvement, it is imperative that we navigate a complex landscape of ethical considerations. The integration of machine learning into the writing process brings forth a host of ethical dilemmas that must be addressed with care and foresight. This chapter explores some of the key ethical considerations that arise in the context of AI-driven writing feedback and improvement.
 

@@ -1,5 +1,4 @@
-Chapter 19: Grammar and Style Checking
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Effective communication hinges on impeccable grammar and a polished writing style. In this chapter, we explore the AI-driven strategies and techniques for enhancing grammar and style in your writing.
 

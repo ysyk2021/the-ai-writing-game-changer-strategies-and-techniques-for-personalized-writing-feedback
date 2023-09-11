@@ -1,5 +1,4 @@
-Chapter 7: Best Practices for Implementation
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Implementing AI-driven strategies and techniques for personalized writing feedback and improvement with machine learning requires a thoughtful and strategic approach. In this chapter, we will explore a set of best practices to guide the successful integration of AI writing tools into various contexts, from education to professional writing environments.
 

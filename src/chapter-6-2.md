@@ -1,5 +1,4 @@
-Chapter 8: Overcoming Resistance to Change
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore strategies and techniques for overcoming resistance to change when implementing AI-powered personalized writing feedback systems. Resistance to change is a common challenge in organizations, and addressing it effectively is crucial for the successful adoption of innovative technologies like AI in the context of writing feedback.
 

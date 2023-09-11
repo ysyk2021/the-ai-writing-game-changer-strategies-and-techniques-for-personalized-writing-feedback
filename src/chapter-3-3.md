@@ -1,5 +1,4 @@
-Chapter 20: Increased Accuracy and Effectiveness
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Achieving greater accuracy and effectiveness in AI-powered writing feedback and improvement systems is a cornerstone of success. In this chapter, we explore strategies and techniques for elevating the precision and impact of AI-driven writing assistance.
 

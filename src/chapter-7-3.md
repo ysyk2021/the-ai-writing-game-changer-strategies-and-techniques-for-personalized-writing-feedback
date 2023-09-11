@@ -1,5 +1,4 @@
-Chapter 18: Addressing Potential Bias
-=====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Addressing potential bias is a critical aspect of developing AI-powered writing feedback and improvement systems. In this chapter, we delve into the importance of recognizing and mitigating bias to ensure fair and inclusive AI-driven writing tools.
 

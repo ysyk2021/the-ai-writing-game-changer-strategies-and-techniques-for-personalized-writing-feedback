@@ -1,5 +1,4 @@
-Chapter 10: Legal Considerations
-================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As AI-driven writing tools become integral to the writing process, it is essential to navigate the complex landscape of legal considerations. This chapter explores key legal aspects to consider when developing and deploying AI writing solutions.
 

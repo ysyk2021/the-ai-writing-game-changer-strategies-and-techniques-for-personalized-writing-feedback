@@ -1,5 +1,4 @@
-Chapter 17: Ensuring Transparency and Accountability
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Transparency and accountability are vital considerations when integrating AI into writing feedback and improvement processes. In this chapter, we explore the principles and practices that ensure responsible and ethical AI implementation.
 

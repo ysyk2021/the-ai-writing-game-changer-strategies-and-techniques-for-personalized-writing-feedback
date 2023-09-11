@@ -1,5 +1,4 @@
-Chapter 21: Improved Efficiency and Productivity
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Efficiency and productivity are paramount in today's fast-paced world, and AI has emerged as a game changer in the realm of writing. In this chapter, we delve into strategies and techniques for harnessing AI to enhance writing efficiency and productivity.
 

@@ -1,5 +1,4 @@
-Chapter 16: Idea Generation and Organization
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Idea generation and organization are fundamental steps in the writing process. In this chapter, we explore how AI-driven tools can assist writers in generating creative ideas and structuring their content effectively.
 

@@ -1,5 +1,4 @@
-Chapter 8: Developing an AI Strategy
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Incorporating AI into the realm of writing feedback and improvement represents a transformative opportunity. However, a well-defined AI strategy is essential to harness the full potential of this game-changing technology. This chapter outlines the key steps and considerations for developing a robust AI strategy in the context of personalized writing feedback and improvement.
 

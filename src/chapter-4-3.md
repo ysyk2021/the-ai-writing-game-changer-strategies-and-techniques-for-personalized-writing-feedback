@@ -1,5 +1,4 @@
-Chapter 9: Privacy and Security Concerns
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The integration of AI into writing feedback and improvement brings numerous benefits, but it also introduces significant privacy and security considerations. In this chapter, we delve into the paramount importance of safeguarding user data and ensuring the secure operation of AI-powered writing tools.
 

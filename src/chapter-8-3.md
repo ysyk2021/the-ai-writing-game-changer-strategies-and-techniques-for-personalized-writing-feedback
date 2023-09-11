@@ -1,5 +1,4 @@
-Chapter 7: Preparing for the Future
-===================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The rapid evolution of AI-powered writing technologies continues to reshape the way we approach writing, communication, and content creation. In this final chapter, we explore the strategies and considerations for preparing for the future of AI writing.
 

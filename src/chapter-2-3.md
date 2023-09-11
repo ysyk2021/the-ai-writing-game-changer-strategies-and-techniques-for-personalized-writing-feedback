@@ -1,5 +1,4 @@
-Chapter 12: How AI Works in Writing Feedback
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Understanding the inner workings of AI systems in writing feedback is crucial for harnessing their potential effectively. In this chapter, we delve into the underlying mechanisms and techniques that power AI-driven writing feedback and improvement.
 

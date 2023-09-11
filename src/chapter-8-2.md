@@ -1,5 +1,4 @@
-Chapter 6: Potential Challenges and Opportunities
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As AI writing continues to revolutionize the way we approach writing, it is important to explore the potential challenges and opportunities that lie ahead. This chapter delves into the complexities and promising avenues within the realm of AI-powered writing, highlighting both obstacles and areas for growth.
 
